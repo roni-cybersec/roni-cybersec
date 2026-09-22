@@ -4,16 +4,13 @@
 
 I am building practical cybersecurity skills focused on Security Operations Center (SOC), SIEM monitoring, threat detection and incident response.
 
-## 🛡️ Skills
+## 🛡️ Security Skills
 
-- SIEM Monitoring
-- Splunk SPL
-- Wazuh
-- Windows Security Logs
-- Sysmon
-- Linux Fundamentals
-- Incident Response
-- MITRE ATT&CK
+- SIEM: Splunk, Wazuh
+- Log Analysis: Windows Event Logs, Sysmon
+- Detection: SPL Queries, Alert Investigation
+- Framework: MITRE ATT&CK
+- OS: Windows, Linux
 
 ## 🔧 Tools
 
@@ -30,7 +27,10 @@ I am building practical cybersecurity skills focused on Security Operations Cent
 - Authentication monitoring
 - Failed login detection
 - Brute force investigation
-- Incident reports
+- Incident response reports
+
+Repository:
+https://github.com/roni-cybersec/Splunk-SOC-Lab
 
 
 ### 🔹 Wazuh SOC Lab
@@ -38,6 +38,9 @@ I am building practical cybersecurity skills focused on Security Operations Cent
 - Alert monitoring
 - Detection engineering
 - Security investigations
+
+Repository:
+https://github.com/roni-cybersec/wazuh-soc-lab
 
 
 ## 🎯 Career Goal
